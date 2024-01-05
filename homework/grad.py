@@ -1,3 +1,4 @@
+
 import numpy as np
 
 def gradient_descent(f, initial_guess, learning_rate, tolerance, max_iterations):
