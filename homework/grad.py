@@ -1,4 +1,5 @@
 # 整篇程式碼都是ChatGPT生出來的(我有給它偏微分的函式),生出來後我有看懂
+# 習題7要參考習題6...
 import numpy as np
 
 def gradient_descent(f, initial_guess, learning_rate, tolerance, max_iterations):  #梯度下降法,f是要最小化的目標,learning_rate是步長,tolerance是收斂的標準,max_iterations是次數上限
